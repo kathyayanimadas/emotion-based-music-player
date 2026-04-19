@@ -116,7 +116,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Durgam Vani**
+**Madas Kathyayani**
 
 ---
 
